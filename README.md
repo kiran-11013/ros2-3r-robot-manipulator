@@ -247,5 +247,6 @@ This project is released under the **Apache License 2.0**.
 ## Author
 
 **Kiran**
-M.Tech Robotics and Intelligent Systems
+
+M.Tech Robotics and Intelligent Systems,
 Indian Institute of Technology Hyderabad
